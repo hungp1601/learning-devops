@@ -1,0 +1,7 @@
+all: 
+  hosts:
+    web01:
+      ansible_host: 127.0.0.1
+      ansible_user: hung
+      ansible_password: hung1601
+      

@@ -82,3 +82,5 @@ Thumbs.db
 # AWS specific (since you have AWS CLI installer)
 .aws/
 aws-credentials
+ansible/client.pem
+**/*.pem
